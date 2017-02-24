@@ -1,7 +1,9 @@
 OpenGL Mars
 ===========
 
-OpenGL &amp; C++ animation on the surface of mars. Preview: http://imgur.com/iEQ3Ff7, http://youtu.be/W5GrXgs9pnU.
+OpenGL &amp; C++ animation on the surface of mars. 
+### [Youtube video](http://youtu.be/W5GrXgs9pnU)
+![Screenshot](http://i.imgur.com/iEQ3Ff7.jpg)
 
 Includes: texture mapping, normal mapping, shadow mapping,  specular shading, point lighting, directional lighting, point clouds, billboard particles, skybox, .obj meshes & animations.
 
